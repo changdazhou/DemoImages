@@ -1,0 +1,16 @@
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/example1.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/example2.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/example3.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/example4.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/image_dir.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/label_txt.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/labelme.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/edit.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/select_category.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/save.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/next_image.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/annotation_result.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/anno_list1.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/anno_list1.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/applications/instance_segmentation_dataset_prepare/directory_structure.png
+https://paddle-model-ecology.bj.bcebos.com/paddlex/PaddleX3.0/doc_images/open_source/tutorials/data/dataset_check/instance_segmentation/histogram.png
